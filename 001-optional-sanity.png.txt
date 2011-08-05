@@ -1,0 +1,1 @@
+[x] Read alt text in pop-up tooltip
