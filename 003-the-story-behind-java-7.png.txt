@@ -1,1 +1,1 @@
-It's funny because it's true.
+Our executive decision to stay with Fortran is finally paying off!

@@ -1,1 +1,1 @@
-Yes, it's a ThinkPad. Happy?
+I always feel guilty when disabling kernel modules. I mean, CONFIG_EUROZONE_SUSTAINABILITY can't be that important, right?

@@ -1,1 +1,1 @@
-Fun fact: this is exactly how your code feels everytime you run tests that pass.
+Did you read the alt-text?
